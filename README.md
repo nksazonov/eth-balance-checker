@@ -40,6 +40,7 @@ contract.
 - Optimism Kovan: `0xB1c568e9C3E6bdaf755A60c7418C269eb11524FC`
 - arbitrum: `0x151E24A486D7258dd7C33Fb67E4bB01919B7B32c`
 - avalanche: `0xD023D153a0DFa485130ECFdE2FAA7e612EF94818` and `0xE0baF851F839874141bB73327f9C606147a52358`
+- scroll: `0x3192B36822DAe9069b41311D909D116F96EB876d`
 - fantom: `0x07f697424ABe762bB808c109860c04eA488ff92B` and `0xfC701A6b65e1BcF59fb3BDbbe5cb41f35FC7E009`
 - ether-classic: `0xfC701A6b65e1BcF59fb3BDbbe5cb41f35FC7E009`
 - Tron: `TN8RtFXeQZyFHGmH1iiSRm5r4CRz1yWkCf` --> Yes, it also works in Tron! Use hex addresses format to interact with it (41...).
