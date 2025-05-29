@@ -43,6 +43,7 @@ contract.
 - fantom: `0x07f697424ABe762bB808c109860c04eA488ff92B` and `0xfC701A6b65e1BcF59fb3BDbbe5cb41f35FC7E009`
 - ether-classic: `0xfC701A6b65e1BcF59fb3BDbbe5cb41f35FC7E009`
 - Tron: `TN8RtFXeQZyFHGmH1iiSRm5r4CRz1yWkCf` --> Yes, it also works in Tron! Use hex addresses format to interact with it (41...).
+- World Chain (480): `0x6D3B5EFa1f81f65037cD842F48E44BcBCa48CBEF`
 
 ### Library
 
