@@ -43,6 +43,8 @@ contract.
 - fantom: `0x07f697424ABe762bB808c109860c04eA488ff92B` and `0xfC701A6b65e1BcF59fb3BDbbe5cb41f35FC7E009`
 - ether-classic: `0xfC701A6b65e1BcF59fb3BDbbe5cb41f35FC7E009`
 - Tron: `TN8RtFXeQZyFHGmH1iiSRm5r4CRz1yWkCf` --> Yes, it also works in Tron! Use hex addresses format to interact with it (41...).
+- Flow (747): `0xa3f2f64455c9f8D68d9dCAeC2605D64680FaF898`
+- Rootstock (30): `0x1096644156Ed58BF596e67d35827Adc97A25D940`
 
 ### Library
 
