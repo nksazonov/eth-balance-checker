@@ -43,6 +43,8 @@ contract.
 - fantom: `0x07f697424ABe762bB808c109860c04eA488ff92B` and `0xfC701A6b65e1BcF59fb3BDbbe5cb41f35FC7E009`
 - ether-classic: `0xfC701A6b65e1BcF59fb3BDbbe5cb41f35FC7E009`
 - Tron: `TN8RtFXeQZyFHGmH1iiSRm5r4CRz1yWkCf` --> Yes, it also works in Tron! Use hex addresses format to interact with it (41...).
+- Linea: `0xF62e6a41561b3650a69Bb03199C735e3E3328c0D`
+- Linea Sepolia: `0x424A079B89571a515Fd6fe0ba614060D5Fd8E16A`
 
 ### Library
 
